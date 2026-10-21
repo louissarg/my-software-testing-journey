@@ -1,0 +1,37 @@
+                                    Test plan
+
+Written by : Louissar Gwanta
+Date	          : 21/10/2026
+Project       : Google Drive File Uploading Testing 
+
+Introduction:
+This test plan validates that last test plan was successfully uploaded and changes made worked in google drive showing functionality.
+ 
+Overview
+Overview: To ensure users can access the file in GitHub platform
+Scope      :  downloadable file
+Team/Stakeholders : me
+
+
+Objectives/Purpose
+Goals: Ensure file management if bug-free and user-friendly.
+Objectives: Validate functionality 
+
+Test Strategy
+ Types of testing: Load, functional and usability
+
+Test Enviroments: 
+Deployment, stage, live, “production”
+
+Device matrix
+Platform	OS	Browser	Version
+Chrome	Windows 11	Chrome 	latest
+			
+
+
+Test  deliverables:
+Test cases:[Link/define all the test cases]
+Test schedule:[Estimations, Milestone date]
+
+Risks
+[Describe all the risks and dependencies]
